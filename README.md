@@ -1,5 +1,4 @@
 # Impossible-Tic-Tac-Toe
-# Impossible Tic Tac Toe
 
 An unbeatable Tic Tac Toe game built with **HTML, CSS, and JavaScript**.  
 Designed to challenge players of all levels with a smart AI.
